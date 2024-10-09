@@ -7,3 +7,6 @@
 
 
 [hyper link](https://pages.github.com/)
+
+![Ippo](hajime no ippo.jpg) 
+
